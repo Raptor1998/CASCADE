@@ -4,12 +4,14 @@
 **所有图片资源均来自网络**
 **游戏运行需要FunCode的支持**
 ## 游戏截图
-<img src="./蘑菇头历险记.jpg" alt="运行截图" style="zoom: 50%;" />
+<img src="./蘑菇头历险记.jpg" alt="运行截图" style="zoom: 30%;" />
+
 ## 视频演示
 ##### 地址
-**https://pan.baidu.com/s/1udnvq68d3_O0s4NTE-wNLw**
+https://pan.baidu.com/s/1udnvq68d3_O0s4NTE-wNLw
 ##### 提取码
-**20d9**
+20d9
+
 ## 操作说明
 ### 游戏操作说明：
 #### 主角移动：
